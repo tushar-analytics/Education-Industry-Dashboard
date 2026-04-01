@@ -1,20 +1,24 @@
 # 📊 Education Analytics Dashboard (Power BI)
 
+## 🎥 Demo Video
+
+<p align="center">
+  <img src="images/video.gif" width="700"/>
+</p>
+
+---
+
 ## 🚀 Project Overview
 
 This project analyzes student data to derive insights on academic performance, department allocation, and student satisfaction.
 
 The dashboard focuses on identifying trends in:
 
-* Department preferences vs actual admissions
-* Student satisfaction rate (81%)
+* Top Departments
+* Student satisfaction rate
+* Student Performance
 * Department-wise demand and allocation
-
----
-
-## 🎥 Demo Video
-
-![Education-Industry-Dashboard](images/video.gif)
+* Revenue Analysis
 
 ---
 
@@ -39,31 +43,36 @@ The dashboard focuses on identifying trends in:
 
 ### 🔹 Overview
 
-![Overview](images/overview.png)
+![Education-Industry-Dashboard](images/Overview.png)
 
-### 🔹 Performance Analysis
+### 🔹 Department Analysis
 
-![Performance](images/performance.png)
+![Education-Industry-Dashboard](images/Departmental.png)
 
 ---
 
 ## 📊 Key Insight
 
-> Around 81% of students received their preferred department, while 19% were allocated differently, highlighting allocation inefficiencies.
+* Most of the students enrolled in 2015 and they have average marks equal to average marks of institute, means they have big contribution in revenue generation
+* Topper of the institute is from 2015 batch - more focus to 2015 batch should be given
+* Most of the Pending fees is from Departments - SAIF, Humanities and Social Sciences, Biosciences and Bioengineering
+* 20% of the students are Defaulters which means they have fees pending > 300000
+* Almost 50 % or 1580 students are above and equal to 29 which means some classes should be shifted to evening
+* Average age is also 28 which means college is some PG (Post-Graduation) college
+* Most new branch is Chemistry
 
 ---
 
 ## 📁 Files Included
 
 * `.pbix` file for full dashboard
-* Dataset used for analysis
-* Screenshots and demo video
+* Images of all the slides in dashboard
+* Demo video
 
 ---
 
 ## 💡 Future Improvements
 
-* Add predictive analysis using ML
 * Integrate real-time data
 * Improve UI/UX design
 
