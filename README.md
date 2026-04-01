@@ -12,6 +12,12 @@ The dashboard focuses on identifying trends in:
 
 ---
 
+## 🎥 Demo Video
+
+![Education-Industry-Dashboard](images/video.gif)
+
+---
+
 ## 🎯 Key Features
 
 * 📌 KPI Metrics (Total Students, Satisfaction Rate)
@@ -38,12 +44,6 @@ The dashboard focuses on identifying trends in:
 ### 🔹 Performance Analysis
 
 ![Performance](images/performance.png)
-
----
-
-## 🎥 Demo
-
-![Demo](demo/demo.gif)
 
 ---
 
